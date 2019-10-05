@@ -1,0 +1,11 @@
+
+.home-nav {
+	background-color:var(--color-tint);
+	/* padding-bottom:-5px; */
+	color:#fff;
+/* 	position:fixed;
+	right:0;
+	left:0;
+	top:0;
+	z-index:9; */
+	}
